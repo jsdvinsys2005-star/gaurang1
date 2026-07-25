@@ -1,0 +1,8 @@
+number=11
+
+if number>0:
+   print("6")
+elif number<0:
+   print("12")
+else:
+   print("0")
