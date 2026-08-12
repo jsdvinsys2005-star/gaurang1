@@ -1,7 +1,0 @@
-x = 12
-y = 99
-z = 3
-
-print(type(x))
-print(type(y))
-print(type(z))
